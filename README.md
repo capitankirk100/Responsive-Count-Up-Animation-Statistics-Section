@@ -1,9 +1,13 @@
 # Responsive-Count-Up-Animation-Statistics-Section
 Statistics section with responsive UI/UX countdown animation
 
+🔥TRY NOW: https://kzmpxqn0e7rnpd2kr9zb.lite.vusercontent.net/notifiche
+
 ![image](https://github.com/user-attachments/assets/4fa73d86-856e-4103-8346-8cc6c15310a3)
 
-🎥 🖥️ https://github.com/user-attachments/assets/8352ac9c-55cb-48fa-a355-0416ddf6bb4a
+🎥 https://github.com/user-attachments/assets/8352ac9c-55cb-48fa-a355-0416ddf6bb4a
+
+✅ 🖥️/📱
 
 I'll create a responsive statistics section with animated counters that match your design. This will be added to the "notifiche" section after "chat" as requested.
 
